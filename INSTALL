@@ -1,0 +1,9 @@
+Building SkullCash
+
+See doc/readme-qt.rst for instructions on building SkullCash QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SkullCash.
+
+See doc/build-*.txt for instructions on building skullcashd,
+the intended-for-services, no-graphical-interface, reference
+implementation of SkullCash.
